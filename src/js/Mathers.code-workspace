@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Mathers",
+			"path": "../.."
+		},
+		{
+			"name": "src",
+			"path": "../../../FunctionClean/src"
+		}
+	],
+	"settings": {}
+}
